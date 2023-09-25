@@ -8,11 +8,9 @@
   <p align="center">📖 A curated list of resources dedicated to Modular Smart Accounts</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
-  <img src="./assets/tbd.png">
-
 ## What are modular accounts?
 
-tbd
+Modular Accounts are a subset of Smart Accounts (also known as Account Abstraction) whose design is modular, meaning that features (aka modules) can be added to and removed from the account after deployment.
 
 For a list of general account-abstraction resources see [awesome-account-abstraction](https://github.com/4337Mafia/awesome-account-abstraction).
 
@@ -28,16 +26,17 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Safe Smart Accounts & Diamond Proxies](https://safe.mirror.xyz/P83_rVQuUQJAM-SnMpWvsHlN8oLnCeSncD1txyMDqpE)
 - [Safe Modular Smart Account Architecture – Explained](https://safe.mirror.xyz/t76RZPgEKdRmWNIbEzi75onWPeZrBrwbLRejuj-iPpQ)
 
-## Videos
+## Talks & Podcasts
 
 - [The future of account abstraction is modular](https://www.youtube.com/watch?v=DP_ThXdPazY) at ETHCC 2023
 - [Account Abstraction: Modular Smart Accounts](https://www.youtube.com/watch?v=NvDmhyb0O6A) at ETHCC 2023
 
 ## Accounts
 
-- [Biconomy Smart Account](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-account)
+- [Smart Account](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-account) by Biconomy
+- [Dynamic Account](https://github.com/thirdweb-dev/contracts/blob/dc25a7c8c4130a730788b2b70304d7b7fc2c8f36/contracts/prebuilts/account/dynamic/DynamicAccount.sol) by thirdweb
 - [Fun](https://github.com/fun-xyz/funkit-contracts)
-- [Kernel](https://github.com/zerodevapp/kernel)
+- [Kernel](https://github.com/zerodevapp/kernel) by Zerodev
 - [Safe](https://github.com/safe-global/safe-contracts)
 - [Soul Wallet](https://github.com/SoulWallet/soul-wallet-contract)
 
@@ -72,6 +71,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [UniV3 Limit Order](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/automatedActions/UniswapV3LimitOrder.sol) by Fun
 - [Approve + Execute](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/actions/ApproveAndExec.sol) by Fun
 - [Approve + Swap](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/actions/ApproveAndSwap.sol) by Fun
+- [Cross-chain Safe](https://github.com/cucupac/x-safe/blob/main/README.md) by cucupac
 
 ## Tooling
 
