@@ -8,7 +8,7 @@
   <p align="center">📖 A curated list of resources dedicated to Modular Smart Accounts</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
-  <img src="./assets/huff.png">
+  <img src="./assets/tbd.png">
 
 ## What are modular accounts?
 
@@ -21,6 +21,10 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [WTF is modular Account Abstraction](https://mirror.xyz/konradkopp.eth/7Q3TrMFgx2VbZRKa7UEaisIMjimpMABiqGYo00T9egA)
 - [Modular Account Abstraction for Everyone Else (2 part series)](https://blog.rhinestone.wtf/part-1-modular-account-abstraction-for-everyone-else-84567422bc46)
 - [ERC-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
+- [Making Biconomy Smart Accounts Modular](https://www.biconomy.io/post/making-biconomy-smart-accounts-modular)
+- [Multchain Validation Module - sign once, execute on multiple chains](https://www.biconomy.io/post/multchain-validation-smart-account-module)
+- [Introducing Kernel — Minimal & Extensible Smart Contract Account for ERC-4337 Wallets
+  ](https://docs.zerodev.app/blog/kernel-minimal-extensible-account-for-aa-wallets)
 - [Safe Smart Accounts & Diamond Proxies](https://safe.mirror.xyz/P83_rVQuUQJAM-SnMpWvsHlN8oLnCeSncD1txyMDqpE)
 - [Safe Modular Smart Account Architecture – Explained](https://safe.mirror.xyz/t76RZPgEKdRmWNIbEzi75onWPeZrBrwbLRejuj-iPpQ)
 
@@ -71,7 +75,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 
 ## Tooling
 
-- [ModuleKit: A development kit for building smart account modules](https://github.com/rhinestonewtf/modulekit)
+- [ModuleKit](https://github.com/rhinestonewtf/modulekit): A development kit for building smart account modules
 
 ## Communities
 
