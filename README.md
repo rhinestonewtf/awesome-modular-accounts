@@ -23,8 +23,8 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [ERC-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
 - [Making Biconomy Smart Accounts Modular](https://www.biconomy.io/post/making-biconomy-smart-accounts-modular)
 - [Multchain Validation Module - sign once, execute on multiple chains](https://www.biconomy.io/post/multchain-validation-smart-account-module)
-- [Introducing Kernel — Minimal & Extensible Smart Contract Account for ERC-4337 Wallets
-  ](https://docs.zerodev.app/blog/kernel-minimal-extensible-account-for-aa-wallets)
+- [Introducing Kernel — Minimal & Extensible Smart Contract Account for ERC-4337 Wallets](https://docs.zerodev.app/blog/kernel-minimal-extensible-account-for-aa-wallets)
+- [Module ideas for product inspiration](https://rhinestone.notion.site/Module-ideas-for-product-inspo-338100a2c99540f490472b8aa839da11)
 - [Safe Smart Accounts & Diamond Proxies](https://safe.mirror.xyz/P83_rVQuUQJAM-SnMpWvsHlN8oLnCeSncD1txyMDqpE)
 - [Safe Modular Smart Account Architecture – Explained](https://safe.mirror.xyz/t76RZPgEKdRmWNIbEzi75onWPeZrBrwbLRejuj-iPpQ)
 
