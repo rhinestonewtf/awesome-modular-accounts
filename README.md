@@ -60,7 +60,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Emergency modules](https://github.com/onchainification/safe_panic_modules/tree/main/contracts/modules) by onchainification
 - [Token withdrawal by third party](https://github.com/roleengineer/token-withdrawal-module/blob/master/src/TokenWithdrawalModule.sol) by roleengineer
 - [Dump shitcoins automatically](https://github.com/onchainification/CowDumper/tree/main) by onchainification
-- [Allowance module](https://github.com/safe-global/safe-modules/blob/master/allowances/contracts/AlowanceModule.sol) by Safe
+- [Allowance module](https://github.com/safe-global/safe-modules/blob/master/allowances/contracts/AllowanceModule.sol) by Safe
 - [Whitelist guard/hook](https://github.com/gnosis/zodiac-guard-scope/blob/main/contracts/ScopeGuard.sol) by Safe
 - [Daily limit](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/plugin/Dailylimit/Dailylimit.sol) by Soul Wallet
 - [Keystore](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/modules/keystore/KeyStoreModule.sol) by Soul Wallet
@@ -72,6 +72,10 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Approve + Execute](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/actions/ApproveAndExec.sol) by Fun
 - [Approve + Swap](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/actions/ApproveAndSwap.sol) by Fun
 - [Cross-chain Safe](https://github.com/cucupac/x-safe/blob/main/README.md) by cucupac
+- [Recovery with Delay](https://github.com/unlocktheswap/Safe-AA/blob/main/contracts/contracts/RecoveryWithDelayPlugin.sol) by Akshay Patel
+- [Intents](https://github.com/Banana-Wallet/safe-intent-plugin/blob/main/contracts/IntentSafePlugin.sol) by BananaHQ
+- [GameSessionKey](https://github.com/itublockchain/eth-paris-session-key/blob/master/account-contracts/contracts/GameSessionValidationModule.sol) by itublockchain
+- [PaySplit](https://github.com/ipsavitsky/PaySplit/blob/main/contracts/contracts/Plugins.sol) by ipsavitsky
 
 ## Tooling
 
