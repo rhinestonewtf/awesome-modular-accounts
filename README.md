@@ -38,7 +38,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Smart Account](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-account) by Biconomy
 - [Dynamic Account](https://github.com/thirdweb-dev/contracts/blob/dc25a7c8c4130a730788b2b70304d7b7fc2c8f36/contracts/prebuilts/account/dynamic/DynamicAccount.sol) by thirdweb
 - [Fun](https://github.com/fun-xyz/funkit-contracts)
-- [Kernel](https://github.com/zerodevapp/kernel) by Zerodev
+- [Kernel](https://github.com/zerodevapp/kernel) by ZeroDev
 - [Safe](https://github.com/safe-global/safe-contracts)
 - [Soul Wallet](https://github.com/SoulWallet/soul-wallet-contract)
 
@@ -47,9 +47,11 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [MultiChainECDSAValidator](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/MultichainECDSAValidator.sol) by Biconomy
 - [Session Keys](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/SessionKeyManagerModule.sol) by Biconomy
 - [Passkeys](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/PasskeyRegistryModule.sol) by Biconomy
-- [MultiECDSAValidator](https://github.com/zerodevapp/kernel/blob/main/src/validator/MultiECDSAValidator.sol) by Zerodev
-- [Session Keys](https://github.com/zerodevapp/kernel/blob/main/src/validator/SessionKeyValidator.sol) by Zerodev
-- [Killswitch](https://github.com/zerodevapp/kernel/blob/main/src/validator/KillSwitchValidator.sol) by Zerodev
+- [MultiECDSAValidator](https://github.com/zerodevapp/kernel/blob/main/src/validator/MultiECDSAValidator.sol) by ZeroDev
+- [Session Keys](https://github.com/zerodevapp/kernel/blob/main/src/validator/SessionKeyValidator.sol) by ZeroDev
+- [Killswitch](https://github.com/zerodevapp/kernel/blob/main/src/validator/KillSwitchValidator.sol) by ZeroDev
+- [Two-factor Auth (2FA)](https://github.com/moonchute/kernel-2fa-plugin/blob/feat/two-factor-validator/src/validator/TwofaValidator.sol) by MoonChute (built on ZeroDev)
+- [Session keys that can sign messages](https://github.com/RollaProject/kernel/blob/feat/session_key_owned/src/validator/SessionKeyOwnedValidator.sol) by Rolla (built on ZeroDev)
 - [BLS Validator](https://github.com/getwax/wax/blob/main/account-integrations/kernel/src/BLSValidator.sol) by Wax
 - [Account-native flashloans](https://github.com/dialecticch/safe-flashloan/tree/main) by Dialectic
 - [Zodiac](https://github.com/gnosis/zodiac/tree/master) by Gnosis
