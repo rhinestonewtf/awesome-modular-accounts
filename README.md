@@ -30,6 +30,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 
 - [The future of account abstraction is modular](https://www.youtube.com/watch?v=DP_ThXdPazY) at ETHCC 2023
 - [Account Abstraction: Modular Smart Accounts](https://www.youtube.com/watch?v=NvDmhyb0O6A) at ETHCC 2023
+- [Alchemy & Account Abstraction Infrastructure](https://www.devsdosomething.fm/episodes/alchemy-account-abstraction-infrastructure) on Devs Do Something
 
 ## Accounts
 
@@ -50,6 +51,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Killswitch](https://github.com/zerodevapp/kernel/blob/main/src/validator/KillSwitchValidator.sol) by Zerodev
 - [BLS Validator](https://github.com/getwax/wax/blob/main/account-integrations/kernel/src/BLSValidator.sol) by Wax
 - [Account-native flashloans](https://github.com/dialecticch/safe-flashloan/tree/main) by Dialectic
+- [Zodiac](https://github.com/gnosis/zodiac/tree/master) by Gnosis
 - [Vesting Module](https://github.com/Phala-Network/safe-vest-module/blob/master/contracts/VestingModule.sol) by Phala Network
 - [Gelato module](https://github.com/gelatodigital/gelato-safe-module/blob/master/contracts/GelatoSafeModule.sol) by Gelato
 - [Revoke module](https://github.com/emilianobonassi/revoke-safe-module/blob/main/src/RevokeModule.sol) by Emiliano Bonassi
