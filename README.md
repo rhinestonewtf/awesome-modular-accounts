@@ -32,6 +32,8 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [The future of account abstraction is modular](https://www.youtube.com/watch?v=DP_ThXdPazY) at ETHCC 2023
 - [Account Abstraction: Modular Smart Accounts](https://www.youtube.com/watch?v=NvDmhyb0O6A) at ETHCC 2023
 - [Alchemy & Account Abstraction Infrastructure](https://www.devsdosomething.fm/episodes/alchemy-account-abstraction-infrastructure) on Devs Do Something
+- [Konrad Kopp, Co-Founder of Rhinestone](https://open.spotify.com/episode/3rlCBdKg9CBh4lsY210ko8)
+- [Account Abstraction with Will Hennesy & Noam Hurwitz](https://open.spotify.com/episode/6zYI5nvpsDLowV0IYORGpx)
 
 ## Accounts
 
@@ -44,6 +46,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 
 ## Modules
 
+- [Module examples](https://github.com/rhinestonewtf/modulekit-examples) by Rhinestone
 - [MultiChainECDSAValidator](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/MultichainECDSAValidator.sol) by Biconomy
 - [Session Keys](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/SessionKeyManagerModule.sol) by Biconomy
 - [Passkeys](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/PasskeyRegistryModule.sol) by Biconomy
