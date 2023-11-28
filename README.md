@@ -53,7 +53,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [One-of-N multisig](https://github.com/zerodevapp/kernel/blob/main/src/validator/MultiECDSAValidator.sol) by ZeroDev
 - [Session Keys](https://github.com/zerodevapp/kernel/blob/main/src/validator/SessionKeyValidator.sol) by ZeroDev
 - [Kill switch](https://github.com/zerodevapp/kernel/blob/main/src/validator/KillSwitchValidator.sol) by ZeroDev
-- [Stealth address](https://github.com/moonchute/stealth-address-aa-plugin/blob/main/src/zerodev/StealthAddressValidator.sol) by MoonChute (built on ZeroDev)
+- Stealth address by MoonChute (built on [Zerodev](https://github.com/moonchute/stealth-address-aa-plugin/blob/main/src/zerodev/StealthAddressValidator.sol) and [Biconomy](https://github.com/moonchute/stealth-address-aa-plugin/blob/main/src/biconomy/StealthAddressRegistryModule.sol))
 - [Two-factor Auth (2FA)](https://github.com/moonchute/kernel-2fa-plugin/blob/feat/two-factor-validator/src/validator/TwofaValidator.sol) by MoonChute (built on ZeroDev)
 - [Session keys that can sign messages](https://github.com/RollaProject/kernel/blob/feat/session_key_owned/src/validator/SessionKeyOwnedValidator.sol) by Rolla (built on ZeroDev)
 - [BLS Validator](https://github.com/getwax/wax/blob/main/account-integrations/kernel/src/BLSValidator.sol) by Wax
