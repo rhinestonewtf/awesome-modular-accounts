@@ -85,6 +85,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Intents](https://github.com/Banana-Wallet/safe-intent-plugin/blob/main/contracts/IntentSafePlugin.sol) by BananaHQ
 - [GameSessionKey](https://github.com/itublockchain/eth-paris-session-key/blob/master/account-contracts/contracts/GameSessionValidationModule.sol) by itublockchain
 - [PaySplit](https://github.com/ipsavitsky/PaySplit/blob/main/contracts/contracts/Plugins.sol) by ipsavitsky
+- [Recurring Execution](https://github.com/Unhosted-Wallet/unhosted-modules/blob/main/recurring-execution/contracts/RecurringExecuteModule.sol) by Unhosted Wallet
 
 ## Tooling
 
