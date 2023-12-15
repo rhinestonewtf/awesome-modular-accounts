@@ -18,6 +18,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 
 - [WTF is modular Account Abstraction](https://mirror.xyz/konradkopp.eth/7Q3TrMFgx2VbZRKa7UEaisIMjimpMABiqGYo00T9egA)
 - [Modular Account Abstraction for Everyone Else (2 part series)](https://blog.rhinestone.wtf/part-1-modular-account-abstraction-for-everyone-else-84567422bc46)
+- [ERC-7579: Minimal Modular Smart Accounts](https://erc7579.com/)
 - [ERC-6900: Modular Smart Contract Accounts and Plugins](https://eips.ethereum.org/EIPS/eip-6900)
 - [Making Biconomy Smart Accounts Modular](https://www.biconomy.io/post/making-biconomy-smart-accounts-modular)
 - [Multchain Validation Module - sign once, execute on multiple chains](https://www.biconomy.io/post/multchain-validation-smart-account-module)
