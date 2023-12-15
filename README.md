@@ -35,7 +35,9 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Alchemy & Account Abstraction Infrastructure](https://www.devsdosomething.fm/episodes/alchemy-account-abstraction-infrastructure) on Devs Do Something
 - [Konrad Kopp, Co-Founder of Rhinestone](https://open.spotify.com/episode/3rlCBdKg9CBh4lsY210ko8)
 - [Account Abstraction with Will Hennesy & Noam Hurwitz](https://open.spotify.com/episode/6zYI5nvpsDLowV0IYORGpx)
-
+- [Derek Chiang, CEO of ZeroDev](https://open.spotify.com/episode/0Y9a3SAhizJq0Lg6TzM4KO?si=b8c9ff0ff1514487)
+- [Ahmed Al-Balaghi, CEO of Biconomy](https://open.spotify.com/episode/114i9xGwQiJv4WSBnkBZrM?si=afb04a6fcb39413a)
+  
 ## Accounts
 
 - [Smart Account](https://github.com/bcnmy/scw-contracts/tree/master/contracts/smart-account) by Biconomy
