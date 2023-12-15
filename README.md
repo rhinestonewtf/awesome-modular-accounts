@@ -27,7 +27,10 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Module ideas for product inspiration](https://rhinestone.notion.site/Module-ideas-for-product-inspo-338100a2c99540f490472b8aa839da11)
 - [Safe Smart Accounts & Diamond Proxies](https://safe.mirror.xyz/P83_rVQuUQJAM-SnMpWvsHlN8oLnCeSncD1txyMDqpE)
 - [Safe Modular Smart Account Architecture – Explained](https://safe.mirror.xyz/t76RZPgEKdRmWNIbEzi75onWPeZrBrwbLRejuj-iPpQ)
-
+- [A foundational layer to modular account abstraction](https://blog.rhinestone.wtf/a-foundational-layer-to-modular-account-abstraction-e7b21ae56034)
+- [Teaming up with Biconomy to launch the first module store for smart accounts](https://blog.rhinestone.wtf/teaming-up-with-biconomy-to-launch-the-first-module-store-for-smart-accounts-445233f919bc)
+- [ModuleKit deep dive](https://blog.rhinestone.wtf/modulekit-deep-dive-ad84ee0797c6)
+  
 ## Talks & Podcasts
 
 - [The future of account abstraction is modular](https://www.youtube.com/watch?v=DP_ThXdPazY) at ETHCC 2023
