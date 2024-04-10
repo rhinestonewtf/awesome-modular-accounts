@@ -77,11 +77,10 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Dump shitcoins automatically](https://github.com/onchainification/CowDumper/tree/main) by onchainification
 - [Allowance module](https://github.com/safe-global/safe-modules/blob/master/allowances/contracts/AllowanceModule.sol) by Safe
 - [Whitelist guard/hook](https://github.com/gnosis/zodiac-guard-scope/blob/main/contracts/ScopeGuard.sol) by Safe
-- [Daily limit](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/plugin/Dailylimit/Dailylimit.sol) by Soul Wallet
 - [Keystore](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/modules/keystore/KeyStoreModule.sol) by Soul Wallet
 - [Social Recovery](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/modules/SocialRecoveryModule/SocialRecoveryModule.sol) by Soul Wallet
 - [Security Control](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/modules/SecurityControlModule/SecurityControlModule.sol) by Soul Wallet
-- [Daily Limit](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/plugin/Dailylimit/Dailylimit.sol) by Soul Wallet
+- [Daily Limit](https://github.com/SoulWallet/soul-wallet-contract/blob/d0895e0d0990dd25f39254fee707d7898a852652/contracts/plugin/Dailylimit/Dailylimit.sol) by Soul Wallet
 - [2FA](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/plugin/Simple2FA/Simple2FA.sol) by Soul Wallet
 - [UniV3 Limit Order](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/automatedActions/UniswapV3LimitOrder.sol) by Fun
 - [Approve + Execute](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/actions/ApproveAndExec.sol) by Fun
