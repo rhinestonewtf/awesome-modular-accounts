@@ -83,9 +83,6 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Security Control](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/modules/SecurityControlModule/SecurityControlModule.sol) by Soul Wallet
 - [Daily Limit](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/plugin/Dailylimit/Dailylimit.sol) by Soul Wallet
 - [2FA](https://github.com/SoulWallet/soul-wallet-contract/blob/develop/contracts/plugin/Simple2FA/Simple2FA.sol) by Soul Wallet
-- [UniV3 Limit Order](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/automatedActions/UniswapV3LimitOrder.sol) by Fun
-- [Approve + Execute](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/actions/ApproveAndExec.sol) by Fun
-- [Approve + Swap](https://github.com/fun-xyz/funkit-contracts/blob/main/contracts/modules/actions/ApproveAndSwap.sol) by Fun
 - [Cross-chain Safe](https://github.com/cucupac/x-safe/blob/main/README.md) by cucupac
 - [Recovery with Delay](https://github.com/unlocktheswap/Safe-AA/blob/main/contracts/contracts/RecoveryWithDelayPlugin.sol) by Akshay Patel
 - [Intents](https://github.com/Banana-Wallet/safe-intent-plugin/blob/main/contracts/IntentSafePlugin.sol) by BananaHQ
