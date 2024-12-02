@@ -63,6 +63,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [Two-factor Auth (2FA)](https://github.com/moonchute/kernel-2fa-plugin/blob/feat/two-factor-validator/src/validator/TwofaValidator.sol) by MoonChute (built on ZeroDev)
 - [Session keys that can sign messages](https://github.com/RollaProject/kernel/blob/feat/session_key_owned/src/validator/SessionKeyOwnedValidator.sol) by Rolla (built on ZeroDev)
 - [BLS Validator](https://github.com/getwax/wax/blob/main/packages/plugins/src/kernel/BLSValidator.sol) by Wax
+- [Palmera Safe Hierarchical Structure](https://docs.palmeradao.xyz/palmera-module-safe-hierarchical-structure) - Enables the creation of hierarchical structures where a Safe can have powers over other Safes.
 - [Account-native flashloans](https://github.com/dialecticch/safe-flashloan/tree/main) by Dialectic
 - [Zodiac](https://github.com/gnosis/zodiac/tree/master) by Gnosis
 - [Vesting Module](https://github.com/Phala-Network/safe-vest-module/blob/master/contracts/VestingModule.sol) by Phala Network
