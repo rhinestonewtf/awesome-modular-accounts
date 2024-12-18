@@ -56,7 +56,7 @@ For a list of general account-abstraction resources see [awesome-account-abstrac
 - [MultiChainECDSAValidator](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/MultichainECDSAValidator.sol) by Biconomy
 - [Session Keys](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/SessionKeyManagerModule.sol) by Biconomy
 - [Passkeys](https://github.com/bcnmy/scw-contracts/blob/master/contracts/smart-account/modules/PasskeyRegistryModule.sol) by Biconomy
-- [One-of-N multisig](https://github.com/zerodevapp/kernel/blob/main/src/validator/MultiECDSAValidator.sol) by ZeroDev
+- [Weighted One-of-N multisig](https://github.com/zerodevapp/kernel/blob/release/v3.1/src/validator/WeightedECDSAValidator.sol) by ZeroDev
 - [Session Keys](https://github.com/zerodevapp/kernel/blob/main/src/validator/SessionKeyValidator.sol) by ZeroDev
 - [Kill switch](https://github.com/zerodevapp/kernel/blob/main/src/validator/KillSwitchValidator.sol) by ZeroDev
 - Stealth address by MoonChute (built on [Zerodev](https://github.com/moonchute/stealth-address-aa-plugin/blob/main/src/zerodev/StealthAddressValidator.sol) and [Biconomy](https://github.com/moonchute/stealth-address-aa-plugin/blob/main/src/biconomy/StealthAddressRegistryModule.sol))
