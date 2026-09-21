@@ -8,6 +8,8 @@
   <p align="center">📖 A curated list of resources dedicated to Modular Smart Accounts</p>
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
+> **No longer maintained.** This list is kept for reference.
+
 ## What are modular accounts?
 
 Modular Accounts are a subset of Smart Accounts (also known as Account Abstraction) whose design is modular, meaning that features (aka modules) can be added to and removed from the account after deployment.
